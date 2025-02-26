@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestInsertionSort" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-02-26T00:49:43" hostname="codespaces-a7a417" time="0.099">
+  <properties/>
+  <testcase name="testInsertionSort_Words()" classname="com.example.project.TestInsertionSort" time="0.073"/>
+  <testcase name="testInsertionSort_EmptyArray()" classname="com.example.project.TestInsertionSort" time="0.004"/>
+  <testcase name="testInsertionSort_ReverseSortedArray()" classname="com.example.project.TestInsertionSort" time="0.004"/>
+  <testcase name="testInsertionSort_UnsortedArray()" classname="com.example.project.TestInsertionSort" time="0.002"/>
+  <testcase name="testInsertionSort_AlreadySortedArray()" classname="com.example.project.TestInsertionSort" time="0.002"/>
+  <testcase name="testInsertionSort_SingleElementArray()" classname="com.example.project.TestInsertionSort" time="0.002"/>
+  <system-out><![CDATA[Insertion count: 257349
+Insertion count: 0
+Insertion count: 10
+Insertion count: 5
+Insertion count: 0
+Insertion count: 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
